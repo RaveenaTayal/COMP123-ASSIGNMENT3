@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace COMP123_ASSIGNMENT3
 {
-    class Planet
+    abstract class Planet
     {
 
         //PRIVATE INSTANCE VARIABLES------------------------------------------------------

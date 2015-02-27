@@ -1,4 +1,39 @@
-﻿using System;
+﻿/*
+ *Author: Raveena Tayal
+ *Last Modified on 2/27/2015
+ *Program Description: Create a Planet base class and IHasMoons, IHasRings and IHabitable interfaces. Create 
+ *                     GiantPlanet subclass that inherits from Planet class and implements IHasMoons and IHasRings
+ *                     interfaces. Create another subclass TerrestrialPlanet that inherits from Planet class and
+ *                     implements IHasMoons and Ihabitable interfaces. Implement your program by creating objects
+ *                     for the GiantPlanet and TerrestrialPlanet classes in the main method.
+ *Revision History: 
+ *                 Revision: 5
+ *                 Modified: 2/27/2015()
+ *                 Author: Raveena Tayal
+ *                 Log Entry: Revised the entire project.
+ *                 -----------------------------------------------------------------------
+ *                 Revision: 4
+ *                 Modified: 2/27/2015()
+ *                 Author: Raveena Tayal             
+ *                 Log Entry: Added extra functionality to the program
+ *                 -----------------------------------------------------------------------
+ *                 Revision: 3
+ *                 Modified: 2/27/2015
+ *                 Author: Raveena Tayal
+ *                 Log Entry: Implemented GiantPlanet and TerrestrialPlanet class by creating objects
+ *                 -----------------------------------------------------------------------
+ *                 Revision: 2
+ *                 Modified: 2/27/2015
+ *                 Author: Raveena Tayal
+ *                 Log Entry: Added GiantPlanet and Terrestrial planet sub classes
+ *                 -----------------------------------------------------------------------
+ *                 Revision: 1
+ *                 Modified: 2/27/2015
+ *                 Author: Raveena Tayal
+ *                 Log Entry: Added Planet class, IHasMoons, IHasRings and IHabitable interfaces to the c# project
+ *                 -----------------------------------------------------------------------
+ */
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
