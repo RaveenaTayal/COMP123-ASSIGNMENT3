@@ -106,7 +106,7 @@ namespace COMP123_ASSIGNMENT3
         {
 
             //Return the Name, Diameter and mass -------------------------------------------
-            return "Yay!!! The planet " + this._name + " has:\n\t\t\tDiameter: " + this._diameter + " m \n\t\t\tMass: " + this._mass+" kg ";
+            return this._name + " has:\n\tDiameter: " + this._diameter + " km \n\tMass: " + this._mass+" kg ";
         }
     }
 }
