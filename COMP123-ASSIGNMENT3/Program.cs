@@ -8,27 +8,27 @@
  *                     for the GiantPlanet and TerrestrialPlanet classes in the main method.
  *Revision History: 
  *                 Revision: 5
- *                 Modified: 2/27/2015()
+ *                 Modified: 2/27/2015(5:20pm)
  *                 Author: Raveena Tayal
  *                 Log Entry: Revised the entire project.
  *                 -----------------------------------------------------------------------
  *                 Revision: 4
- *                 Modified: 2/27/2015()
+ *                 Modified: 2/27/2015(5:15pm)
  *                 Author: Raveena Tayal             
  *                 Log Entry: Added extra functionality to the program
  *                 -----------------------------------------------------------------------
  *                 Revision: 3
- *                 Modified: 2/27/2015
+ *                 Modified: 2/27/2015(4:28pm)
  *                 Author: Raveena Tayal
  *                 Log Entry: Implemented GiantPlanet and TerrestrialPlanet class by creating objects
  *                 -----------------------------------------------------------------------
  *                 Revision: 2
- *                 Modified: 2/27/2015
+ *                 Modified: 2/27/2015(3:24pm)
  *                 Author: Raveena Tayal
  *                 Log Entry: Added GiantPlanet and Terrestrial planet sub classes
  *                 -----------------------------------------------------------------------
  *                 Revision: 1
- *                 Modified: 2/27/2015
+ *                 Modified: 2/27/2015(3:06pm)
  *                 Author: Raveena Tayal
  *                 Log Entry: Added Planet class, IHasMoons, IHasRings and IHabitable interfaces to the c# project
  *                 -----------------------------------------------------------------------
