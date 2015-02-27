@@ -14,6 +14,14 @@ namespace COMP123_ASSIGNMENT3
         //PRIVATE INSTANCE VARIABLES--------------------------------------------------------------------
         private string _type;
 
+        //PUBLIC PROPERTIES-----------------------------------------------------------------------------
+        public string Type
+        {
+            get
+            {
+                return this._type;
+            }
+        }
         //CONSTRUCTORS----------------------------------------------------------------------------------
         public GiantPlanet(string name,double diameter,double mass,string type)
             :base(name,diameter,mass)
